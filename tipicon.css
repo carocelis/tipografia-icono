@@ -1,0 +1,32 @@
+.musica, .cine, .pintura, .arquitectura{
+	width: 220px;
+	height: 300px;
+	background-color: #D8EED9;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	margin: 4px;
+	padding-top: 15px;
+	margin-top: 15px;
+}
+.foto{
+	width: 250px;
+	height: 330px;
+	background-color: white;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	margin: 4px;
+	padding-top: 15px;
+	border-right: 2px solid grey;
+	border-bottom: 2px solid grey;
+}
+.fa-music, .fa-film, .fa-camera-retro, .fa-paint-brush, .fa-university{
+	font-size: 70px;
+}
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h2, h4{
+	font-family: 'Inconsolata', monospace;
+}
